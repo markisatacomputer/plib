@@ -37,6 +37,7 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 #added by mark
+gem "thin"
 gem "sinatra"
 gem "mongoid"
 gem "devise"
